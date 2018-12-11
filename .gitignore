@@ -1,0 +1,12 @@
+node_modules
+node/
+library
+*.iml
+.idea/
+report
+reports
+healthid
+mocha.json
+.tmp/
+target/
+*.log

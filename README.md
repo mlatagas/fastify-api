@@ -1,3 +1,10 @@
+How to run:
+
+> npm install
+> npm run server
+> http://localhost:4000/documentation/index.html
+
+
 # fastify-api
 
 Dependencise
